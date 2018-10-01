@@ -1,0 +1,13 @@
+C:\Users\Rocio\source\repos\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\Users\Rocio\source\repos\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\Rocio\source\repos\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\Rocio\source\repos\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Rocio\source\repos\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\Rocio\source\repos\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb
+E:\prog\curso programacion rocio\net c#\c++\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+E:\prog\curso programacion rocio\net c#\c++\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+E:\prog\curso programacion rocio\net c#\c++\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+E:\prog\curso programacion rocio\net c#\c++\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csprojResolveAssemblyReference.cache
+E:\prog\curso programacion rocio\net c#\c++\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.CoreCompileInputs.cache
+E:\prog\curso programacion rocio\net c#\c++\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+E:\prog\curso programacion rocio\net c#\c++\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb
